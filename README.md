@@ -45,7 +45,6 @@
 [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![VS 2022](https://skillicons.dev/icons?i=visualstudio)](https://code.visualstudio.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com) 
 
 ---
 
