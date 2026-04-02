@@ -43,18 +43,12 @@
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 
-### Web (when I have to)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-
 ---
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omardev29&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omardev29&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
