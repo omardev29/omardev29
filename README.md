@@ -5,7 +5,7 @@
 - 🌍 Based somewhere with good Wi-Fi and bad sleep schedules
 - 🎮 Currently building games with **C++ & Raylib** and **Godot & GDScript**
 - 📱 I also like build cross-platform apps with **Dart & Flutter**
-- 🔨 I prefer understanding *why* things work over just making them work
+- 🔨 First you have to understand *why* things work over just making them work
 - ⚡ Fun fact: I think GDScript is underrated and C++ is timeless
 
 ---
