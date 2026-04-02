@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**omardev29/omardev29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Omar
 
-Here are some ideas to get you started:
+**Indie developer. I make games and apps from scratch — no templates, no shortcuts.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based somewhere with good Wi-Fi and bad sleep schedules
+- 🎮 Currently building games with **C++ & Raylib** and **Godot**
+- 📱 Building cross-platform apps with **Flutter & Dart**
+- 🔨 I prefer understanding *why* things work over just making them work
+- ⚡ Fun fact: I think GDScript is underrated and C++ is timeless
+
+---
+
+## 🎮 Games
+
+> Check out my games on itch.io 👇
+
+[![itch.io](https://img.shields.io/badge/omardev29-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://omardev29.itch.io/)
+
+---
+
+## 🛠️ Skills
+
+### Languages
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
+[![GDScript](https://skillicons.dev/icons?i=godot)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+
+### Game Dev
+[![Raylib](https://img.shields.io/badge/Raylib-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzIyMjIyMiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNXptMCAxMEwyIDEybDEwIDUgMTAtNXptMCA1TDIgMTdsNS4yNSAyLjYyNUwxMiAyMmw0Ljc1LTIuMzc1TDIyIDE3eiIvPjwvc3ZnPg==&logoColor=black)](https://raylib.com)
+[![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org)
+
+### App Dev
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+
+### Tools & Environment
+[![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
+[![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+
+### Web (when I have to)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*"C and C++ are the Latin of programming languages — learn them and everything else makes sense."*
