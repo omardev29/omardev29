@@ -1,4 +1,3 @@
-
 # Omar
 
 **Indie developer. I make games and apps from scratch — no templates, no shortcuts.**
@@ -25,11 +24,12 @@
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
-[![GDScript](https://skillicons.dev/icons?i=godot)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/)
+<a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/"><img src=".github/assets/GDScript.png" height="48" alt="GDScript"/></a>
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 
 ### Game Dev
-[![Raylib](https://img.shields.io/badge/Raylib-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzIyMjIyMiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNXptMCAxMEwyIDEybDEwIDUgMTAtNXptMCA1TDIgMTdsNS4yNSAyLjYyNUwxMiAyMmw0Ljc1LTIuMzc1TDIyIDE3eiIvPjwvc3ZnPg==&logoColor=black)](https://raylib.com)
+<a href="https://raylib.com"><img src=".github/assets/raylib.png" height="48" alt="GDScript"/></a>
+
 [![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org)
 
 ### App Dev
