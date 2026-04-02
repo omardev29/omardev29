@@ -24,7 +24,7 @@
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
-<a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/"><img src=".github/assets/GDScript.png" height="48" alt="GDScript"/></a>
+<a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html"><img src=".github/assets/GDScript.png" height="48" alt="GDScript"/></a>
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![JavasScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
