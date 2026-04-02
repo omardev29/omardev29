@@ -4,7 +4,7 @@
 
 - 🌍 Based somewhere with good Wi-Fi and bad sleep schedules
 - 🎮 Currently building games with **C++ & Raylib** and **Godot & GDScript**
-- 📱 Building cross-platform apps with **Flutter & Dart**
+- 📱 I also like build cross-platform apps with **Dart & Flutter**
 - 🔨 I prefer understanding *why* things work over just making them work
 - ⚡ Fun fact: I think GDScript is underrated and C++ is timeless
 
@@ -26,6 +26,7 @@
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
 <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/"><img src=".github/assets/GDScript.png" height="48" alt="GDScript"/></a>
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![JavasScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Game Dev
 <a href="https://raylib.com"><img src=".github/assets/raylib.png" height="48" alt="GDScript"/></a>
@@ -38,11 +39,13 @@
 ### Tools & Environment
 [![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
+[![Arch](https://skillicons.dev/icons?i=arch)](https://wiki.archlinux.org/title/Main_page)
 [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![VS 2022](https://skillicons.dev/icons?i=visualstudio)](https://code.visualstudio.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com) 
 
 ---
 
@@ -53,4 +56,4 @@
 
 ---
 
-*"C and C++ are the Latin of programming languages — learn them and everything else makes sense."*
+*"C and C++ are the Latin of programming languages, learn them and everything else makes sense."*
