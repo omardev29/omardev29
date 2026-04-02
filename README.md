@@ -1,9 +1,9 @@
 # Omar
 
-**Indie developer. I make games and apps from scratch — no templates, no shortcuts.**
+**Indie developer. I make games and apps from scratch**
 
 - 🌍 Based somewhere with good Wi-Fi and bad sleep schedules
-- 🎮 Currently building games with **C++ & Raylib** and **Godot**
+- 🎮 Currently building games with **C++ & Raylib** and **Godot & GDScript**
 - 📱 Building cross-platform apps with **Flutter & Dart**
 - 🔨 I prefer understanding *why* things work over just making them work
 - ⚡ Fun fact: I think GDScript is underrated and C++ is timeless
@@ -41,6 +41,7 @@
 [![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
 [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![VS 2022](https://skillicons.dev/icons?i=visualstudio)](https://code.visualstudio.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 
 ---
