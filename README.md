@@ -50,8 +50,8 @@
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omardev29&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omardev29&layout=compact&theme=tokyonight&hide_border=true)
+![Omar's GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ---
 
