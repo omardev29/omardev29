@@ -21,7 +21,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=omardev29&layout=compact&langs_count=6&count_private=true
+          options: username=omardev29&show_icons=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
